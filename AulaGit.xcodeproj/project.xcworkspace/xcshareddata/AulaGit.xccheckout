@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A6DEF67B-1859-4D03-9EF9-A156205468B8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AulaGit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>11622C0664DCD2470C75AC37995B953737FBBAA6</key>
+		<string>https://github.com/dmandarino/AulaGit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AulaGit.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>11622C0664DCD2470C75AC37995B953737FBBAA6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dmandarino/AulaGit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>11622C0664DCD2470C75AC37995B953737FBBAA6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>11622C0664DCD2470C75AC37995B953737FBBAA6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AulaGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
