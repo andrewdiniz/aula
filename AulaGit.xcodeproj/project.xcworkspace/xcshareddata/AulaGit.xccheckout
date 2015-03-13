@@ -12,22 +12,34 @@
 	<dict>
 		<key>11622C0664DCD2470C75AC37995B953737FBBAA6</key>
 		<string>https://github.com/dmandarino/AulaGit.git</string>
+		<key>3E22223A6A09B062E94B6ACC5AEFB10C8DC0B8EE</key>
+		<string>https://github.com/andrewdiniz/aula.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>AulaGit.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>11622C0664DCD2470C75AC37995B953737FBBAA6</key>
+		<string>../../../AulaGit</string>
+		<key>3E22223A6A09B062E94B6ACC5AEFB10C8DC0B8EE</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/dmandarino/AulaGit.git</string>
+	<string>https://github.com/andrewdiniz/aula.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>11622C0664DCD2470C75AC37995B953737FBBAA6</string>
+	<string>3E22223A6A09B062E94B6ACC5AEFB10C8DC0B8EE</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E22223A6A09B062E94B6ACC5AEFB10C8DC0B8EE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>aula</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
